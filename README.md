@@ -2,7 +2,7 @@
 
 git config --global user.name "Abdul Awal Nadim"
 
-git config --global user.email "adim.ice.nstu@gmail.com"
+git config --global user.email "nadim.ice.nstu@gmail.com"
 
 git init
 
