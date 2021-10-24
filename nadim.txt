@@ -1,4 +1,36 @@
-nadim
-afhdfj
+git config --global user.name "aa-nadim"
+git config --global user.email "nadim.ice.nstu@gmail.com"
 
-This is a new line from another developer in the team.
+git init
+git config
+git clone repo_url
+git status
+git checkout (-b) branch_name
+git branch
+git add (.|filename)
+git commit
+git clone repo_url
+
+git config
+git clone repo_url
+git status
+git checkout (-b) branch_name
+git branch 
+git add (.|filename)
+git commit
+git merge branch_name
+git push
+.gitignore
+pull request -r
+git pull -r
+git branch -d <branch>
+git stach
+git fork
+
+Staging branch:
+Development Branch
+Production branch
+Feature branch
+Merge request
+Resolving conflicts
+CI/CD
